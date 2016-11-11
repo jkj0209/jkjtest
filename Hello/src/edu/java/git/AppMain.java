@@ -7,6 +7,7 @@ public class AppMain {
 		System.out.println("¾È³çÇÏ¼¼¿ä~");
         System.out.println("규민아 힘내!!!!");
 	
+        System.out.println("새로운 기능 추가");
 	}
 
 }
